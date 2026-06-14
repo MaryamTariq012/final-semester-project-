@@ -1,4 +1,5 @@
 # final-semester-project-
+https://final-semester-project-bay.vercel.app
 # 🩺 Doctor-Hub: A Multi-Role Healthcare Management System
 
 **Doctor-Hub** is a responsive, feature-rich, full-stack web application designed to streamline healthcare accessibility and medical management. The platform bridges the communication and operational gap between Patients, Doctors, and Medical Assistants by providing a secure, role-based ecosystem.
